@@ -1,0 +1,94 @@
+.header img{
+    width: 100px;
+    height: auto;
+    margin-left: 100px;
+   
+}
+
+.header{
+    background-color: aqua;
+}
+
+.header ul{}
+.header ul li{
+    display: inline-block;
+    
+    
+}
+.header ul li a{
+  padding: 10px 30px;
+    color: rgb(228, 10, 10);
+    text-decoration: none;
+   cursor: pointer;
+   text-align: center;
+  
+  
+    
+}
+
+
+
+.content{
+    background-color: bisque;
+}
+.banner img{
+    max-width: 100%;
+    margin-top: 1px;
+}
+.bac{
+    background: rgb(166, 212, 166);
+    max-width: 100%;
+    text-align: center;
+}
+.about h2{
+    text-decoration: underline;
+}
+
+.content img{
+    width: 300px;
+    margin-left: 10px;
+    float: left;
+}
+
+.content p{
+    margin-top: 50px;
+}
+
+.collage{
+    
+    text-align: center;
+    border: 1px solid red;
+}
+.collage h2{text-align: center;
+background: green;
+border-radius: 10px;}
+
+
+.our-service{
+    text-align: center;
+    
+border-radius: 30px;
+display: inline-block;
+margin-top: 20px;
+text-decoration: underline;
+
+}
+
+.center{
+    text-align: center;
+}
+.footer{
+   background-color: rgb(116, 73, 9);
+   text-align: center;
+   color: #fff;
+}
+.footer img{
+    width: 100px;
+    height: auto;
+    margin-left: 100px;
+}
+.website{
+    width: 1024px;
+    margin: auto;
+    border-radius: 1px solid green;
+}
